@@ -1,5 +1,5 @@
 // Variables globales
-let numeroMaximo = 50; // Coincide con el max="50" de tu HTML
+let numeroMaximo = 30; // Coincide con el max="50" de tu HTML
 let numeroSecreto;
 let intentos;
 
